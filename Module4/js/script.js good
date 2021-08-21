@@ -1,0 +1,6 @@
+//var para = document.getElementById("p");
+//var pText = "Names Starts With  J  Char";
+
+var paragraph = document.getElementById("p1");
+var pText = paragraph.innerText;
+paragraph.innerHTML = "This just got added";
